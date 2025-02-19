@@ -1,0 +1,15 @@
+C:\Users\ugrst\Documents\GitHub\odev1\ConsoleApp1\Odev1\bin\Debug\net9.0\Odev1.exe
+C:\Users\ugrst\Documents\GitHub\odev1\ConsoleApp1\Odev1\bin\Debug\net9.0\Odev1.deps.json
+C:\Users\ugrst\Documents\GitHub\odev1\ConsoleApp1\Odev1\bin\Debug\net9.0\Odev1.runtimeconfig.json
+C:\Users\ugrst\Documents\GitHub\odev1\ConsoleApp1\Odev1\bin\Debug\net9.0\Odev1.dll
+C:\Users\ugrst\Documents\GitHub\odev1\ConsoleApp1\Odev1\bin\Debug\net9.0\Odev1.pdb
+C:\Users\ugrst\Documents\GitHub\odev1\ConsoleApp1\Odev1\obj\Debug\net9.0\Odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugrst\Documents\GitHub\odev1\ConsoleApp1\Odev1\obj\Debug\net9.0\Odev1.AssemblyInfoInputs.cache
+C:\Users\ugrst\Documents\GitHub\odev1\ConsoleApp1\Odev1\obj\Debug\net9.0\Odev1.AssemblyInfo.cs
+C:\Users\ugrst\Documents\GitHub\odev1\ConsoleApp1\Odev1\obj\Debug\net9.0\Odev1.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\Documents\GitHub\odev1\ConsoleApp1\Odev1\obj\Debug\net9.0\Odev1.sourcelink.json
+C:\Users\ugrst\Documents\GitHub\odev1\ConsoleApp1\Odev1\obj\Debug\net9.0\Odev1.dll
+C:\Users\ugrst\Documents\GitHub\odev1\ConsoleApp1\Odev1\obj\Debug\net9.0\refint\Odev1.dll
+C:\Users\ugrst\Documents\GitHub\odev1\ConsoleApp1\Odev1\obj\Debug\net9.0\Odev1.pdb
+C:\Users\ugrst\Documents\GitHub\odev1\ConsoleApp1\Odev1\obj\Debug\net9.0\Odev1.genruntimeconfig.cache
+C:\Users\ugrst\Documents\GitHub\odev1\ConsoleApp1\Odev1\obj\Debug\net9.0\ref\Odev1.dll
